@@ -14,7 +14,11 @@ This is CS50's fork of Eric Roberts' Stanford Portable Library.
 
 ### Ubuntu
 
-_coming soon_
+    sudo apt-get install -y bash binutils coreutils findutils gcc java-1.?.0-openjdk-devel
+    git clone git@github.com:cs50/spl.git
+    cd spl
+    make
+    sudo make install
 
 ## TODO
 
